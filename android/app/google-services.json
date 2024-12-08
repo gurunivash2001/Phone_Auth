@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514599941050",
+    "project_id": "phone-otp-b4b57",
+    "storage_bucket": "phone-otp-b4b57.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514599941050:android:ad9cd97cce9618bbbc6383",
+        "android_client_info": {
+          "package_name": "com.example.randomno"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYb2xz_xIxE8r3ZXsMoBZ9o1HMeh2tdhA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
